@@ -37,8 +37,6 @@ Desenvolvedora Fullstack em formação | Estudante de Análise e Desenvolvimento
 
 ---
 
-## 🐍 Snake Game das Contribuições
-
 ![snake gif](https://github.com/luanna-galliza/luanna-galliza/blob/output/github-contribution-grid-snake.svg)
 
 ---
