@@ -9,9 +9,9 @@ Desenvolvedora Fullstack em formação | Estudante de Análise e Desenvolvimento
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo:
+## 🛠️ Tecnologias que estudo:
 
-- Java  
+- HTML, CSS, JavaScript 
 - React.js  
 - Node.js  
 - SQL  
