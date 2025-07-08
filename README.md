@@ -29,8 +29,8 @@ Transformando criatividade em código com foco em acessibilidade e usabilidade!
 
 <div>
   <a href="https://github.com/luanna-galliza" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanna-galliza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanna-galliza&layout=compact&langs_count=16&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanna-galliza&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanna-galliza&layout=compact&langs_count=16&theme=tokyonight" />
   </a>
 </div>
 
@@ -44,3 +44,4 @@ Transformando criatividade em código com foco em acessibilidade e usabilidade!
 ---
 
 ✨ *Em constante evolução. Sempre aprendendo, sempre criando.* 🚀
+
