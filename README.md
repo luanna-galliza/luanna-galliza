@@ -1,7 +1,6 @@
 # Luanna Galliza <img src="https://raw.githubusercontent.com/luanna-galliza/luanna-galliza/main/awoo-awoo-shoppe.gif" alt="Awoo Awoo Shoppe" width="100" />
 
-Desenvolvedora Fullstack em formação | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia, design e soluções centradas no usuário.  
-Transformando criatividade em código com foco em acessibilidade e usabilidade!
+Desenvolvedora Fullstack em formação | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia, design e soluções centradas no usuário. Transformando criatividade em código com foco em acessibilidade e usabilidade!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luannagalliza/)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-black?style=flat-square&logo=github)](https://github.com/luanna-galliza)
