@@ -42,6 +42,7 @@ CARROLL, L., Alice no País das Maravilhas
 
 ---
 
-![snake gif](https://github.com/luanna-galliza/luanna-galliza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luanna-galliza/luanna-galliza/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
