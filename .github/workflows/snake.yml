@@ -16,6 +16,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: luanna-galliza
+          repository: luanna-galliza/luanna-galliza
           outputs: |
             dist/github-contribution-grid-snake.svg
 
