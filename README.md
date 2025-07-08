@@ -43,5 +43,7 @@ Transformando criatividade em código com foco em acessibilidade e usabilidade!
 
 ---
 
-✨ *Em constante evolução. Sempre aprendendo, sempre criando.* 🚀
+"A única forma de chegar ao impossível é acreditar que é possível." ✨🚀
+    
+  CARROLL, L., Alice no País das Maravilhas 
 
