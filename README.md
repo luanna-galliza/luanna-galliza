@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td><h1>🧝‍♀️ Luanna Galliza</h1></td>
-    <td><img src="https://media.tenor.com/NH0KMQwXwUEAAAAi/white-dog-smile.gif" width="40" alt="Cute Wolf-like Dog" /></td>
-  </tr>
-</table>
+# Luanna Galliza <img src="https://raw.githubusercontent.com/luanna-galliza/luanna-galliza/main/awoo-awoo-shoppe.gif" alt="Awoo Awoo Shoppe" width="100" />
 
 Desenvolvedora Fullstack em formação | Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia, design e soluções centradas no usuário.  
 Transformando criatividade em código com foco em acessibilidade e usabilidade!
@@ -43,7 +38,5 @@ Transformando criatividade em código com foco em acessibilidade e usabilidade!
 
 ---
 
-"A única forma de chegar ao impossível é acreditar que é possível." ✨🚀
-    
-  CARROLL, L., Alice no País das Maravilhas 
-
+"A única forma de chegar ao impossível é acreditar que é possível." ✨🚀  
+CARROLL, L., Alice no País das Maravilhas
