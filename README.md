@@ -16,7 +16,8 @@ Desenvolvedora Fullstack em formação | Estudante de Análise e Desenvolvimento
 - Node.js  
 - SQL  
 - Git e GitHub  
-
+- Figma
+  
 ---
 
 ## 📊 GitHub Stats
